@@ -1,0 +1,61 @@
+{
+    "customerCars": {
+      "data": [
+        {
+          "id": "5da9ea674234635bdff45c02",
+          "modelo": "Skyline GTR R34",
+          "marca": "Nissan",
+          "cor": "Azul",
+          "ano" : "1998",
+          "motor": "Nissan RB26DETT",
+          "foto": "https://forum.krainamc.pl/uploads/monthly_2020_12/c73913343a24e5bba558198c42915ab2.jpg.74c1c985d9285d176f39b1a35cae570a.jpg"
+        },
+        {
+          "id": "1234435543",
+          "modelo": "Supra MK4 (A80)",
+          "marca": "Toyota",
+          "cor": "Branco",
+          "ano" : "1998",
+          "motor": "2JZ",
+          "foto": "https://i.pinimg.com/736x/48/0e/eb/480eeb1bfda7cd8a7b6cd52f83dbbe2c.jpg"
+        },
+        {
+          "id": "1234da23441drf3543",
+          "modelo": "RX-7",
+          "marca": "Mazda",
+          "cor": "Amarelo",
+          "ano" : "1999",
+          "motor": "Wankel 13B-REW",
+          "foto": "https://i.redd.it/jd490ds413g41.jpg"
+        },
+        {
+            "id": "5hb23g12fg5o235",
+            "modelo": "Impreza WRX STI",
+            "marca": "Subaru",
+            "cor": "Azul",
+            "ano" : "2003",
+            "motor": "2.0 - 2.5",
+            "foto": "https://www.planetcarsz.com/assets/uploads/images/VEICULOS/S/SUBARU/2003_SUBARU_IMPREZA_WRX_STI//SUBARU_IMPREZA_WRX_STI_2003_14.jpg"
+        }
+        ,
+        {
+          "id": "43286ybd34o34b3",
+          "modelo": "240SX",
+          "marca": "Nissan",
+          "cor": "Branco",
+          "ano" : "1998",
+          "motor": "2.4L I4 16V G",
+          "foto": "https://static.carthrottle.com/workspace/uploads/garage/2955838133_4e18934ac7_b-543dad9a1f21c.jpg"
+        },
+        {
+          "id": "123123tf123ggrr33",
+          "modelo": "Lancer Evolution IV",
+          "marca": "Mistubishi",
+          "cor": "Branco",
+          "ano" : "1998",
+          "motor": "4G63 DOHC 2.0L turbo",
+          "foto": "https://i.pinimg.com/originals/d5/49/ec/d549ec76b7b9cc7f4e689edb79176f6a.jpg"
+        }
+      ]
+    }
+  }
