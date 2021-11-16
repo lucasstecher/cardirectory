@@ -3,5 +3,9 @@ module.exports = app => {
 
     app.route('/api/v1/cars')
         .get(controller.listCars)
-        .post(controller.saveCars)
+        .post(controller.saveCar);
+    
+    app.route('/api/v1/customer-cars/:carId')
+        .delete(controller.removeCar)
+        .put(controller.updateCar)
 }
